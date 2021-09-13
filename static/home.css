@@ -1,0 +1,22 @@
+﻿html, body {
+    direction: rtl;
+    margin: 0;
+    padding: 0;
+}
+.back{
+    width:auto;
+    position:fixed;
+    flex:auto;
+}
+.user { 
+   /* width: min-content;*/
+    font-size: larger;
+    font-family: system-ui;
+    color: skyblue;
+    display: table-cell;
+    display: -webkit-box;
+}
+.background {
+    background-color: dimgrey;
+    /*text-align: -webkit-center;*/
+}
